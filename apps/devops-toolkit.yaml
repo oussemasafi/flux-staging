@@ -18,5 +18,5 @@ spec:
     image:
       tag: 2.9.9
     ingress:
-      host: staging.devops-toolkit..nip.io
+      host: staging.devops-toolkit.toto.nip.io
 
